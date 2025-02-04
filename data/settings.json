@@ -19,6 +19,8 @@
 		"url": "assets/default-wallpaper.svg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
+		"transparent" : true,
+    "transparency" : 0,
 		"blur": false
 	},
 	"terminal": {
